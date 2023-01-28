@@ -6,7 +6,7 @@
 ; Version    0.1
 
 #c::ShowMain(1)
-MButton::ShowMain()
+MButton::ShowMain(0)
 
 ; create menus
 Main := Menu()
