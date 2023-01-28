@@ -5,6 +5,9 @@
 ; Date       28.01.2023
 ; Version    0.1
 
+#Requires AutoHotkey >=2.0
+#Warn
+
 #c::ShowMain(1)
 MButton::ShowMain(0)
 
