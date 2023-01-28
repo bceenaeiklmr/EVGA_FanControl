@@ -1,5 +1,5 @@
 # EVGA_FanControl
-`EVGA_FanControl` is an `AutoHotkey` `v2` script that allows you to control the GPU fans with preset settings via the [`EVGA Precision X1`](https://www.evga.com/precisionx1/).
+EVGA_FanControl is an `AutoHotkey` `v2` script that allows you to control the GPU fans with preset settings via the [`EVGA Precision X1`](https://www.evga.com/precisionx1/).
 
 Take control of your fans, adjust the fan speeds to maximize your GPU cooling and improve performance or keep the noise quiet.
 
