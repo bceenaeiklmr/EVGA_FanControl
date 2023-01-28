@@ -10,7 +10,7 @@
 
 p := [] ; params
 for Arg in A_Args {
-    if (Arg ~= '\d')
+    if (Arg ~= "\d")
         p.Push(Arg)
 }
 
@@ -36,12 +36,11 @@ EVGA(fan1, fan2, fan3) {
     ; set the fan values 
     Fans := [fan1, fan2, fan3]
     for v in Fans
-        Send('^a{Delete}' v (A_index !== Fans.Length ? '{Tab 2}' : ""))
+        Send("^a{Delete}" v (A_index !== Fans.Length ? "{Tab 2}" : ""))
     
-    ; save
+    ; save and apply the new settings
     Click(870, 730)
     Sleep(200)
-    ; apply settings
     Click(650, 730)
     
     ; minimize the window, restore settings
