@@ -7,7 +7,7 @@ Take control of your fans, adjust the fan speeds to maximize your GPU cooling an
 
 ## Youtube video
 
-[![EVGA_FanControlVideo](https://i9.ytimg.com/vi/cuCKKNkemRY/mqdefault.jpg?v=63d58bfc&sqp=CNCZ1p4G&rs=AOn4CLAJRbwVpkbObuOEky94StRLYdll2A)](https://www.youtube.com/watch?v=cuCKKNkemRY)
+[![EVGA_control](https://user-images.githubusercontent.com/105103590/216156763-76aa1022-1694-45b3-adb2-178e90d2fd69.png)](https://www.youtube.com/watch?v=cuCKKNkemRY)
 
 Specifically for `EVGA` graphics cards through the [`EVGA Precision X1`](https://www.evga.com/precisionx1/) software.
 
